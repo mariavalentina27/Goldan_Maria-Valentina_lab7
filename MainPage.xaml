@@ -10,7 +10,7 @@
             VerticalOptions="Center">
 
             <Image
-                Source="shoping_list.png"
+                Source="shop_list.png"
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
